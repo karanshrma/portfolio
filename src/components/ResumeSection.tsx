@@ -53,6 +53,22 @@ const ResumeSection = () => {
                 <div className="flex items-start justify-between mb-2">
                   <div>
                     <h4 className="text-foreground font-medium text-lg">
+                      Flutter Developer
+                    </h4>
+                    <p className="text-primary font-mono text-sm">Coretgra Technologies Pvt. Ltd.</p>
+                  </div>
+                  <span className="text-muted-foreground font-mono text-xs whitespace-nowrap">
+                    2025
+                  </span>
+                </div>
+                <p className="text-secondary-foreground text-sm leading-relaxed">
+                  Developed a smart reminder and lifestyle management system featuring categorized scheduling (medicine, meals, events, and water intake), integrated sleep tracking, and enhanced UI/UX. Implemented a built-in music module with loop, shuffle, and download capabilities, creating a comprehensive wellness and productivity platform.
+                </p>
+              </div>
+              <div>
+                <div className="flex items-start justify-between mb-2">
+                  <div>
+                    <h4 className="text-foreground font-medium text-lg">
                       Android Developer Intern
                     </h4>
                     <p className="text-primary font-mono text-sm">AppsAIT</p>
